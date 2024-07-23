@@ -40,6 +40,7 @@
 	"OPTIONSELECT_OPENWORLD": "Open world to wanderers",
 	"OPTIONSELECT_JOINWORLD": "Join world as a wanderer",
 	"OPTIONSELECT_BREAKINWORLD": "Invade world as a wanderer",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
 	"OPTIONSELECT_LEAVEWORLD": "Leave party",
 	"OPTIONSELECT_LOCKWORLD": "Lock world to wanderers",
 	"OPTIONSELECT_UNLOCKWORLD": "Unlock world to wanderers",
@@ -82,6 +83,8 @@
 	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
 
 	"CREDITS": "LukeYui"

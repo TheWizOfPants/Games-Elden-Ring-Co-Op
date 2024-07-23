@@ -1,0 +1,7 @@
+[2024-07-23 13:21:13.404] [modengine] [info] Attempting to load global config at D:\Elden Ring Modding\Games-Elden-Ring-Co-Op\modengine2\config.toml
+[2024-07-23 13:21:13.404] [modengine] [info] Attempting to load mod settings config at D:\Elden Ring Modding\Games-Elden-Ring-Co-Op\config_eldenring.toml
+[2024-07-23 13:21:13.404] [modengine] [info] Local config loaded
+[2024-07-23 13:21:13.405] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-23 13:21:13.405] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-23 13:21:13.405] [modengine] [info] Main thread ID: 24252
+[2024-07-23 13:21:13.500] [modengine] [info] Loaded external DLL D:\Elden Ring Modding\Games-Elden-Ring-Co-Op\ersc.dll

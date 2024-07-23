@@ -40,6 +40,7 @@
 	"OPTIONSELECT_OPENWORLD": "Otwiera twój świat dla wędrowców",
 	"OPTIONSELECT_JOINWORLD": "Dołącz do świata jako wędrowiec",
 	"OPTIONSELECT_BREAKINWORLD": "Dokonaj inwazji jako wrogi wędrowiec",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
 	"OPTIONSELECT_LEAVEWORLD": "Opuść sesję",
 	"OPTIONSELECT_LOCKWORLD": "Zamknij świat dla wędrowców",
 	"OPTIONSELECT_UNLOCKWORLD": "Otwórz świat dla wędrowców",
@@ -57,6 +58,7 @@
 	"YKNX2_HOSTINGFAILED": "Nie udało się rozpocząć sesji:\n{}",
 	"YKNX2_JOININGFAILED": "Nie udało się dołączyć do współpracy w sesji:\n{}",
 	"YKNX2_BREAKINFAILED": "Nie udało się dokonać inwazji na sesję:\n{}",
+	"YKNX2_NODLC": "Musisz posiadać Shadow of the Erdtree by dołączyć do tej sesji",
 	"YKNX2_CONNECTING": "Łączenie [{}]\n{}",
 	"YKNX2_INVADING": "Dokonywanie inwazji...",
 	"YKNX2_PLAYERJOIN": "Wędrowiec {} dołączył",
@@ -76,12 +78,13 @@
 	"YKNX2_PLAYERDISCONNECT": "{} opuszcza grę",
 
 	"YKNX2_STATUS": "{}",
-	"YKNX2_NODLC": "Musisz posiadać Shadow of the Erdtree by dołączyć do tej sesji",
 	"YKNX2_EVERGAOLRADIUSERROR": "Nie udało się wejść do wiecznego więzienia\nWszyscy Wędrowcy muszą wejść razem",
 	"YKNX2_INVASIONRADIUSERROR": "Inwazja się nie udała\nWszyscy Wędrowcy muszą być obecni",
 	"YKNX2_INVASIONSTATEERROR": "Inwazja się nie udała\nZnak nie odpowiada",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} aktywował/a: {}",
 	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Moc łaski wyrzuciła cię z areny",
 
 	"CREDITS": "BarteY , ✠Tommy✠ "
