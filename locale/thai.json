@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "เข้าร่วมโลกในฐานะผู้เร่ร่อน",
 	"OPTIONSELECT_BREAKINWORLD": "บุกรุกโลกในฐานะผู้เร่ร่อน",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "ค้นหาโลกเพือบุกรุก",
+	"OPTIONSELECT_CALLBREAKINSOS": "ทำเครืองหมายโลกสำหรับผู้เร่ร่อนมุ่งร้ายคนอืน",
 	"OPTIONSELECT_LEAVEWORLD": "ออกจากกลุ่ม",
 	"OPTIONSELECT_LOCKWORLD": "ปดล็อคโลกจากผู้เร่ร่อน",
 	"OPTIONSELECT_UNLOCKWORLD": "ปลดล็อคโลกให้แก่ผู้เร่ร่อน",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "รหัสผ่านของเซสชัน\n{}",
 	"YKNX2_HOSTINGFAILED": "ล้มเหลวในการเริมต้นเซสชัน:\n{}",

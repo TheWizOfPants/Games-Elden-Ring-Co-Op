@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "Trete einer anderen Welt als Wanderer bei",
 	"OPTIONSELECT_BREAKINWORLD": "Überfalle die Welt als Wanderer",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Verlasse die Gruppe",
 	"OPTIONSELECT_LOCKWORLD": "Versperre die Welt für andere Wanderer",
 	"OPTIONSELECT_UNLOCKWORLD": "Entsperre die Welt für andere Wanderer",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "DU BIST GESTORBEN",
 	"FE_BLOCKCLEAR": "GEGNER VERNICHTET",
 	"FE_PKMISSIONSUCCESS": "DU HAST GESIEGT",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Sitzungspasswort\n{}",
 	"YKNX2_HOSTINGFAILED": "Die Sitzung konnte nicht gestartet werden:\n{}",

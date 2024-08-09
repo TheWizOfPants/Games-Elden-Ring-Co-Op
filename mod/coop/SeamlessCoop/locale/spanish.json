@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "¿Unirse al mundo como errante?",
 	"OPTIONSELECT_BREAKINWORLD": "¿Invadir mundo como errante?",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Buscando oponente...",
+	"OPTIONSELECT_CALLBREAKINSOS": "Marcar mundo para otros invasores",
 	"OPTIONSELECT_LEAVEWORLD": "¿Abandonar grupo?",
 	"OPTIONSELECT_LOCKWORLD": "¿Bloquear la entrada de errantes al mundo?",
 	"OPTIONSELECT_UNLOCKWORLD": "¿Desbloquear la entrada de errantes al mundo?",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "HAS MUERTO",
 	"FE_BLOCKCLEAR": "ENEMIGO DERROTADO",
 	"FE_PKMISSIONSUCCESS": "VICTORIA",
+	"FE_PKPLAYERBANISHED": "INVASOR DERROTADO",
 
 	"YKNX2_DISPLAYPASSWORD": "Contraseña de la sesión\n{}",
 	"YKNX2_HOSTINGFAILED": "Fallo al unirse a la sesión:\n{}",

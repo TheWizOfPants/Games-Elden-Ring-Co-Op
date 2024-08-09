@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "Gia nhập thế giời với vai trò kẻ lang thang",
 	"OPTIONSELECT_BREAKINWORLD": "Xâm lược thế giới với vai trò kẻ lang thang",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Rời tổ đội",
 	"OPTIONSELECT_LOCKWORLD": "Khóa thế giới của bạn với những Kẻ Lang Thang",
 	"OPTIONSELECT_UNLOCKWORLD": "Mở khóa thế giới của bạn với những Kẻ Lang Thang",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "TỬ TRẬN",
 	"FE_BLOCKCLEAR": "KẺ ĐỊCH ĐÃ GỤC NGÃ",
 	"FE_PKMISSIONSUCCESS": "CHIẾN THẮNG",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Mật khẩu của session\n{}",
 	"YKNX2_HOSTINGFAILED": "Tham gia session thất bại:\n{}",
@@ -82,8 +84,8 @@
 	"YKNX2_INVASIONRADIUSERROR": "Không thể xâm lược\nTất cả Kẻ Lang Thang phải có mặt",
 	"YKNX2_INVASIONSTATEERROR": "Không thể xâm lược\nKý hiệu không phản hồi tới bạn",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} đã kích hoạt: {}",
-	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
-	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+	"YKNX2_PLAYERBONFIREWARP": "{} đã được chuyển đến: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "Chiếc ghim cài đang rung chuyển...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Sức mạnh của Grace đã trục xuất ngươi khỏi đấu trường",
 

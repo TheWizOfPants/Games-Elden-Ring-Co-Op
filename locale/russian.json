@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "Присоединиться к другому миру как странник",
 	"OPTIONSELECT_BREAKINWORLD": "Вторгнуться в мир как мятежник",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Найти противника",
+	"OPTIONSELECT_CALLBREAKINSOS": "Отметить мир для мятежников",
 	"OPTIONSELECT_LEAVEWORLD": "Покинуть команду",
 	"OPTIONSELECT_LOCKWORLD": "Заблокировать мир для странников",
 	"OPTIONSELECT_UNLOCKWORLD": "Разблокировать мир для странников",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "СМЕРТЬ",
 	"FE_BLOCKCLEAR": "ПРОТИВНИК ПАЛ",
 	"FE_PKMISSIONSUCCESS": "ПОБЕДА",
+	"FE_PKPLAYERBANISHED": "МЯТЕЖНИК ИЗГНАН",
 
 	"YKNX2_DISPLAYPASSWORD": "Пароль сессии\n{}",
 	"YKNX2_HOSTINGFAILED": "Не удалось начать сессию:\n{}",

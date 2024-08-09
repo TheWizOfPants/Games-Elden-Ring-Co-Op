@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "إنضمام إلى عالم كمتجول",
 	"OPTIONSELECT_BREAKINWORLD": "غزو ​​عالم كمتجول",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "اسعى الخصم",
+	"OPTIONSELECT_CALLBREAKINSOS": "تحديد العالم للغزاة الآخرين",
 	"OPTIONSELECT_LEAVEWORLD": "ترك المجموعه",
 	"OPTIONSELECT_LOCKWORLD": "قفل العالم أمام المتجولين",
 	"OPTIONSELECT_UNLOCKWORLD": "فتح العالم للمتجولين",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "نال الموت منك",
 	"FE_BLOCKCLEAR": "تم صرع العدو",
 	"FE_PKMISSIONSUCCESS": "تم تحقيق النصر",
+	"FE_PKPLAYERBANISHED": "تم هزيمة الغازي",
 
 	"YKNX2_DISPLAYPASSWORD": "كلمة مرور الجلسة\n{}",
 	"YKNX2_HOSTINGFAILED": "فشل بدء الجلسة:\n{}",

@@ -49,10 +49,13 @@
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Abilita il fuoco amico",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifica {} rune per un arco runico",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Cerca un nemico",
+	"OPTIONSELECT_CALLBREAKINSOS": "Contrassegna il mondo per altri invasori",
 
 	"FE_PLAYERDEATH": "SEI MORTO",
 	"FE_BLOCKCLEAR": "NEMICO SCONFITTO",
 	"FE_PKMISSIONSUCCESS": "VITTORIA",
+	"FE_PKPLAYERBANISHED": "INVASORE SCONFITTO",
+
 
 	"YKNX2_DISPLAYPASSWORD": "Password della sessione\n{}",
 	"YKNX2_HOSTINGFAILED": "Impossibile creare la sessione:\n{}",

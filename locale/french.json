@@ -49,7 +49,9 @@
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Activer/Désactiver les équipes JcJ",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Activer/Désactiver l'attaque alliée",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifier {} runes pour un arc runique",
+	"OPTIONSELECT_CALLBREAKINSOS": "Marquer le monde pour d'autres envahisseurs",
 
+    "FE_PKPLAYERBANISHED": "ENVAHISSEUR VAINCU",
 	"FE_PLAYERDEATH": "DÉFAITE",
 	"FE_BLOCKCLEAR": "ENNEMI ABATTU",
 	"FE_PKMISSIONSUCCESS": "VICTOIRE OBTENUE",

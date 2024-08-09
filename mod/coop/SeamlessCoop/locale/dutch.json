@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "Sluit je aan bij de wereld als een zwerver",
 	"OPTIONSELECT_BREAKINWORLD": "Val de wereld binnen als een zwerver",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "verlaat de groep",
 	"OPTIONSELECT_LOCKWORLD": "Sluit de wereld af voor zwervers",
 	"OPTIONSELECT_UNLOCKWORLD": "Ontgrendel de wereld voor zwervers",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "DOOD",
 	"FE_BLOCKCLEAR": "VIJAND GEVELD",
 	"FE_PKMISSIONSUCCESS": "OVERWINNING BEHAALD",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Sessiewachtwoord\n{}",
 	"YKNX2_HOSTINGFAILED": "Kan sessie niet starten:\n{}",

@@ -41,6 +41,7 @@
 "OPTIONSELECT_JOINWORLD": "Csatlakozz egy világhoz vándorként",
 "OPTIONSELECT_BREAKINWORLD": "Szállj meg egy világot vándorként",
 "OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Ellenfél keresése",
+"OPTIONSELECT_CALLBREAKINSOS": "Világ megjelölése más megszállók számára",
 "OPTIONSELECT_LEAVEWORLD": "Csapat elhagyása",
 "OPTIONSELECT_LOCKWORLD": "Zárd le a világot a vándorok elől",
 "OPTIONSELECT_UNLOCKWORLD": "Nyisd meg a világot a vándorok számára",
@@ -53,6 +54,7 @@
 "FE_PLAYERDEATH": "HALÁL",
 "FE_BLOCKCLEAR": "ELLENFÉL LEGYŐZVE",
 "FE_PKMISSIONSUCCESS": "GYŐZELEM MEGSZEREZVE",
+"FE_PKPLAYERBANISHED": "MEGSZÁLLÓ LEGYŐZVE",
 
 "YKNX2_DISPLAYPASSWORD": "Játszma jelszó\n{}",
 "YKNX2_HOSTINGFAILED": "Nem sikerült elkezdeni a játszmát:\n{}",

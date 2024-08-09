@@ -41,6 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "Liitytäänkö toisen pelaajaan mukaan Vierailijana?",
 	"OPTIONSELECT_BREAKINWORLD": "Valloitetaanko toisen pelaajan maailma?",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Erotutaanko maailmasta?",
 	"OPTIONSELECT_LOCKWORLD": "Lukitse maailma joiltakin muilta pelaajilta?",
 	"OPTIONSELECT_UNLOCKWORLD": "Avataanko maailma muulle pelaajalle?",
@@ -53,6 +54,7 @@
 	"FE_PLAYERDEATH": "KUOLIT",
 	"FE_BLOCKCLEAR": "VIHOLLINEN KUOLI",
 	"FE_PKMISSIONSUCCESS": "VOITTO SAAVUTETTU",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Maailman salasana\n{}",
 	"YKNX2_HOSTINGFAILED": "Virhe alottaessa maailmaa muille pelaajille, tarkistathan salasanan!:\n{}",
