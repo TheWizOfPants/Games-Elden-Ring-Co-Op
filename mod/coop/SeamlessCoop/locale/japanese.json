@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "咳の音: 衰退",
 	"MODGOODSNAME_ROTITEM04": "咳の音: 弱味",
 	"MODGOODSNAME_ROTITEM05": "咳の音: 悲哀",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dried Fingers",
 
 	"MODGOODSINFO_HOSTINGITEM": "自分の世界を開放する",
 	"MODGOODSINFO_JOININGITEM": "他世界に、協力者として参加する",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "発見力とルーン取得量が低下する",
 	"MODGOODSINFO_ROTITEM04": "防御力が低下する",
 	"MODGOODSINFO_ROTITEM05": "攻撃力が低下する",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attracts more invaders to current world",
 
 	"MODGOODSDESC_HOSTINGITEM": "シームレス協力プレイ専用アイテム\n\n自分の世界を、旅人に開放する\n\n大壺は自らの闘士に加わる強者を求めている\n小大壺を示すことで、戦士達は貴方の旅路に加わり\n彼らに、その力を証明する機会が与えられる",
 	"MODGOODSDESC_JOININGITEM": "シームレス協力プレイ専用アイテム\n\n協力者（旅人）として、他世界に参加を試みる\n\nマレニアは究極の強さの象徴として崇められた\n朱い腐敗を僅かに残す彼女の小偶像は\n力を求める戦士達を惹きつけてやまない",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "どこかで、苦しげな咳が聞こえる\n咳をするのは、祝福から見放された褪せ人のようだ\n\n所持している分だけ、デバフを受ける\n祝福で休むことで、これら全ての呪いは解除される\n\n腐敗は褪せ人と巫女との繋がりを失わせる\nメリナの力は弱まり、その恩恵は遠いものとなる",
 	"MODGOODSDESC_ROTITEM04": "どこかで、苦しげな咳が聞こえる\n咳をするのは、祝福から見放された褪せ人のようだ\n\n所持している分だけ、デバフを受ける\n祝福で休むことで、これら全ての呪いは解除される\n\nかつて、強大な黄金樹の一部だったものは退勢した\n全ては最早、ただの小枝に過ぎないのだ",
 	"MODGOODSDESC_ROTITEM05": "どこかで、苦しげな咳が聞こえる\n咳をするのは、祝福から見放された褪せ人のようだ\n\n所持している分だけ、デバフを受ける\n祝福で休むことで、これら全ての呪いは解除される\n\nあらゆる闘いが苦しい\n世界が貴方を嫌ったか\n或いは貴方が貴方自身を",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item for seamless online play.\n\nAttracts more invaders to current world.\n\nAn enticing finger pendant, attractive to those who wish to collect them. Simply flashing it will call forth all those who wish to reap fingers.",
 
 	"OPTIONSELECT_OPENWORLD": "自分の世界を開放する",
 	"OPTIONSELECT_JOINWORLD": "協力者として、他世界に参加する",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "PVPモードを変更する",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "チームを変更する",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "同士討ちの設定を変更する",
-	"OPTIONSELECT_GIVEEMBER": "{0} ルーンを消費して、大ルーンの恩恵を得る",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
+	"OPTIONSELECT_GIVEEMBER": "{} ルーンを消費して、大ルーンの恩恵を得る",
+	"OPTIONSELECT_EASYENEMYRUSH": "Easy",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medium",
+	"OPTIONSELECT_HARDENEMYRUSH": "Hard",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "合言葉\n{}",
 	"YKNX2_HOSTINGFAILED": "セッションの開始に失敗しました\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "挑戦者の針が震え始めた",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "祝福の力により、闘技場から追放されました",
+	
+	"YKBR2_INFORMBATTLESTART": "You feel a mysterious warmth wash over you",	
+	"YKBR2_INFORMBATTLEWAVE": "Battle wave {} is approaching...",
+	"YKBR2_INFORMBATTLEEND": "You begin to awake...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "LukeYui, Furisuke"
 }
